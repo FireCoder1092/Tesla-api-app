@@ -1,1 +1,1 @@
-#### This is an api app for people who like tesla. Yeah you heard me right elon musk's Tesla company.
+# This is an API app for people who like Tesla. Yeah, you heard me right: Elon Musk's Tesla company.
